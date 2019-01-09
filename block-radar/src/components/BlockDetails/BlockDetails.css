@@ -1,0 +1,14 @@
+.Details {
+    background:  rgb(207, 142, 233);
+    margin: 10px 0;
+    padding: 2px 0;
+    border: 1px solid;
+}
+
+a {
+    color: rgb(89, 0, 124)
+}
+
+h2 {
+    margin: 0
+}
