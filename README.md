@@ -1,7 +1,7 @@
 # Block Explorer Frontend Code Challenge
 This project is a code challenge for a frontend developer job application.
 
-## Summary
+## Overview
 
 This is a minimal block explorer built with React.js and Web3.js (bootstrapped using create-react-app).
 It displays the last 10 Ethereum blocks in a visually meaningful way and allows the user to view 
