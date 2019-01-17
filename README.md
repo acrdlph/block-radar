@@ -1,5 +1,5 @@
 # Block Explorer Frontend Code Challenge
-This project is a code challenge for a frontend developer job application.
+This project is a code challenge for a frontend developer job application. Here is a [live demo](https://blockradar-5af36.firebaseapp.com/)!
 
 ## Overview
 
@@ -23,7 +23,7 @@ Stateless component: Lists all transactions from the selected block
 which have value > 0 (i.e. Ether was sent with these transactions) in a table with some details 
 (to, from, value, etherscan link).
 
-## How to run it
+## Run
 
 ### MetaMask
 
